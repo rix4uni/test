@@ -29,6 +29,8 @@ http:
       - type: regex
         regex:
           - "root:[x*]:0:0"
+          - "test"
+          - "test2"
 
       - type: status
         status:
